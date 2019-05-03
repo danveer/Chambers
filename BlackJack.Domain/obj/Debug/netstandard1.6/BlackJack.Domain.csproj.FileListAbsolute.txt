@@ -1,0 +1,16 @@
+C:\temp\BlackJack.Tests\BlackJack.Domain\bin\Debug\netstandard1.6\BlackJack.Domain.deps.json
+C:\temp\BlackJack.Tests\BlackJack.Domain\bin\Debug\netstandard1.6\BlackJack.Domain.dll
+C:\temp\BlackJack.Tests\BlackJack.Domain\bin\Debug\netstandard1.6\BlackJack.Domain.pdb
+C:\temp\BlackJack.Tests\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.csprojAssemblyReference.cache
+C:\temp\BlackJack.Tests\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.csproj.CoreCompileInputs.cache
+C:\temp\BlackJack.Tests\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.AssemblyInfo.cs
+C:\temp\BlackJack.Tests\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.dll
+C:\temp\BlackJack.Tests\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.pdb
+C:\Source\chambers\latest2\repo\Chambers\BlackJack.Domain\bin\Debug\netstandard1.6\BlackJack.Domain.deps.json
+C:\Source\chambers\latest2\repo\Chambers\BlackJack.Domain\bin\Debug\netstandard1.6\BlackJack.Domain.dll
+C:\Source\chambers\latest2\repo\Chambers\BlackJack.Domain\bin\Debug\netstandard1.6\BlackJack.Domain.pdb
+C:\Source\chambers\latest2\repo\Chambers\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.csprojAssemblyReference.cache
+C:\Source\chambers\latest2\repo\Chambers\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.csproj.CoreCompileInputs.cache
+C:\Source\chambers\latest2\repo\Chambers\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.AssemblyInfo.cs
+C:\Source\chambers\latest2\repo\Chambers\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.dll
+C:\Source\chambers\latest2\repo\Chambers\BlackJack.Domain\obj\Debug\netstandard1.6\BlackJack.Domain.pdb
